@@ -1,9 +1,9 @@
 # Uncover Underlying Correspondence for Robust Multi-view Clustering
 
-This repository provides the official implementation of our ICLR 2026 paper:
+This repository provides the official implementation of our paper:
 
 > Haochen Zhou, Guofeng Ding, Mouxing Yang, Peng Hu, Yijie Lin, Xi Peng,  
-> *Uncover Underlying Correspondence for Robust Multi-view Clustering*  👉 [[Paper]](https://openreview.net/forum?id=a4S1nQay3b)
+> *Uncover Underlying Correspondence for Robust Multi-view Clustering*, ICLR 2026 (Oral).  👉 [[Paper]](https://openreview.net/forum?id=a4S1nQay3b)
 
 
 

@@ -53,10 +53,11 @@ The training results are recorded in `output/{training dataset}/log_train.txt`.
 If you find this repository useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{zhouuncover,
+@inproceedings{zhou2026uncover,
   title={Uncover Underlying Correspondence for Robust Multi-view Clustering},
   author={Zhou, Haochen and Ding, Guofeng and Yang, Mouxing and Hu, Peng and Lin, Yijie and Peng, Xi},
-  booktitle={The Fourteenth International Conference on Learning Representations}
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026}
 }
 ```
 

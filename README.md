@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Configuration
 
-The hyperparameters and training options for the four datasets used in the paper are provided as YAML configuration files in the `config/` directory.
+The hyperparameters and training options for the four datasets used in the paper are provided as YAML configuration files in the `/config` directory.
 
 
 

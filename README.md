@@ -23,7 +23,7 @@ The hyperparameters and training options for the four datasets used in the paper
 
 ## Datasets
 
-The `/dataset` directory provides the Scene15 and LandUse21 datasets.All datasets used in this project can be downloaded from Google Drive:  [Google Drive](https://drive.google.com/drive/folders/1hDmvUXrEhMfx5l7vaUurtwj-4MhNhqdY?usp=sharing).
+The `/dataset` directory provides the Scene15 and LandUse21 datasets. All datasets used in this project can be downloaded from Google Drive:  [Google Drive](https://drive.google.com/drive/folders/1hDmvUXrEhMfx5l7vaUurtwj-4MhNhqdY?usp=sharing).
 
 
 
@@ -65,4 +65,4 @@ If you find this repository useful in your research, please consider citing:
 
 ## Acknowledgement
 
-This implementation is based on [DIVIDE](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE)
+This implementation is based on [DIVIDE](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE).

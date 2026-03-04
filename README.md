@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # Uncover Underlying Correspondence for Robust Multi-view Clustering
 
 This repository provides the official implementation of our paper:
